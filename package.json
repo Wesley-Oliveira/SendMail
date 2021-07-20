@@ -1,0 +1,11 @@
+{
+  "name": "SendMail",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Wesley-Oliveira/SendMail.git",
+  "author": "Wesley-Oliveira <wesley0leby@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^6.6.3"
+  }
+}
